@@ -6,9 +6,9 @@ Python 包：将中文句子转换为拼音，支持多音字和 Ruby 注音格�
 
 ```bash
 pip install git+https://github.com/你的用户名/sentence2pinyin.git
+```
 
-
-使用示例
+## 使用示例
 ```python
 from spinyin import SPinyin
 
