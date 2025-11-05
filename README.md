@@ -5,7 +5,7 @@ Python 包：将中文句子转换为拼音，支持多音字和 Ruby 注音格�
 ## 安装
 
 ```bash
-pip install git+https://github.com/你的用户名/sentence2pinyin.git
+git@github.com:vmarsed/sentence2pinyin.git
 ```
 
 ## 使用示例
